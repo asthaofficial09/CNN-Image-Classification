@@ -18,9 +18,6 @@ A deep learning project showcasing computer vision skills — building and train
 - Validation Accuracy: ~75–80% after 10 epochs
 - Tested on 10,000 unseen images
 
-## 📊 Sample Predictions
-(Add model prediction images here)
-
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/yourusername/cnn-image-classification.git
